@@ -86,7 +86,7 @@ Mi formación industrial me dio una disciplina analítica, estructurada y resili
 
 ## 🌐 Idiomas
 
-🇪🇸 Español (nativo) &nbsp;·&nbsp; 🇬🇧 Inglés (B1) &nbsp;·&nbsp; 🇩🇪 Deutsch (A1 zertifiziert, A2 in Ausbildung)
+🇪🇸 Español (nativo) &nbsp;·&nbsp; 🇬🇧 Inglés (B1) &nbsp;·&nbsp; 🇩🇪 Deutsch (A2 zertifiziert, B1 in Ausbildung)
 
 ---
 
