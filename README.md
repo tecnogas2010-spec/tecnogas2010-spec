@@ -6,7 +6,7 @@
 
 ### Full Stack Web Developer | Gas Engineer in Career Transition
 
-📍 Flawil, Schweiz &nbsp;|&nbsp; 📧 tecnogas2010@gmail.com &nbsp;|&nbsp; 📞 +41 76 716 30 19
+📍 Zurich, Schweiz &nbsp;|&nbsp; 📧 tecnogas2010@gmail.com &nbsp;|&nbsp; 📞 +41 76 716 30 19
 
 [![GitHub](https://img.shields.io/badge/GitHub-tecnogas2010--spec-181717?style=for-the-badge&logo=github)](https://github.com/tecnogas2010-spec)
 [![Email](https://img.shields.io/badge/Email-tecnogas2010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecnogas2010@gmail.com)
