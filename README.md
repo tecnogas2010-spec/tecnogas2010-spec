@@ -4,7 +4,7 @@
 
 # Johan Andres Cardenas Hernandez
 
-### Junior Full Stack Web Developer | Gas Engineer in Career Transition
+### Full Stack Web Developer | Gas Engineer in Career Transition
 
 📍 Flawil, Schweiz &nbsp;|&nbsp; 📧 tecnogas2010@gmail.com &nbsp;|&nbsp; 📞 +41 76 716 30 19
 
