@@ -21,7 +21,7 @@ Ingeniero en Tecnología del Gas con 19 años de trayectoria técnica en la indu
 
 Mi formación industrial me dio una disciplina analítica, estructurada y resiliente — habilidades que ahora aplico para escribir código limpio, depurar con método y entregar soluciones confiables.
 
-🎯 **Buscando posición como:** Junior Web Developer · Frontend Junior · Backend Junior · IT Support Developer · Full Stack Trainee
+🎯 **Buscando posición como:** Web Developer · Frontend Junior · Backend Junior · IT Support Developer · Full Stack Trainee
 
 ---
 
